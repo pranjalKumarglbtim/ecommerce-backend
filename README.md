@@ -84,13 +84,14 @@ ecommerce-backend
 | DELETE | `/api/products/{id}` | Delete product    |
 
 📤 Sample JSON (POST /api/products)
+```
 
 {
   "name": "iPhone 15",
   "description": "Latest Apple smartphone",
   "price": 79999,
   "quantity": 10
-}
+} ```
 
 🧪 Testing with Postman
 
@@ -98,8 +99,10 @@ Open Postman
 Select method (GET/POST/PUT/DELETE)
 Enter URL:
 http://localhost:8080/api/products
+```
 For POST → select Body → raw → JSON
 Paste sample JSON → Send
+```
 
 🐘 Database Configuration
 H2 (Default - No setup needed)
@@ -114,18 +117,18 @@ spring.datasource.username=postgres
 spring.datasource.password=yourpassword
 
 📈 Future Improvements
-
+```
 🔐 JWT Authentication
 🛍️ Cart & Order System
 👤 User Management
 💳 Payment Integration
 📦 Category Management
 🧾 Role-based Access Control
-
+```
 
 
 👨‍💻 Author
-
+```
 Pranjal Kumar
-Java Backend Developer (Learning Phase 🚀)
+Java Backend Developer (Learning Phase 🚀) ```
 ..
