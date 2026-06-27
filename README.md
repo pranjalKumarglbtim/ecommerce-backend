@@ -22,17 +22,16 @@ It provides APIs for managing products with full CRUD operations, built using Sp
 ```
 
 ```
-🏗️ ### **Tech Stack**
-
-
-☕ Java 17+
-🌱 Spring Boot 3+
-🗄️ Spring Data JPA
-🐘 PostgreSQL / H2 Database
-📦 Maven
-📘 Swagger (springdoc-openapi)
-🧪 Postman (API testing)
+## 🛠️ Tech Stack
+* **Language:** Java 17+
+* **Framework:** Spring Boot 3+
+* **Data Access:** Spring Data JPA
+* **Databases:** PostgreSQL / H2 Database
+* **Build Tool:** Maven
+* **API Docs:** Swagger (springdoc-openapi)
+* **Testing:** Postman (API testing)
 ```
+
 ```
 📁 Project Structure
 
