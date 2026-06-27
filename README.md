@@ -35,7 +35,7 @@ It provides APIs for managing products with full CRUD operations, built using Sp
 
 ---
 ## **📁 Project Structure**
-
+```
 
 ecommerce-backend
  ┣ src
@@ -52,11 +52,12 @@ ecommerce-backend
  ┃ ┗ test
  ┣ pom.xml
  ┗ README.md
+```
  ---
 
 ---
  ## **⚙️ Setup Instructions**
- 
+ ```
    1️⃣ Clone the repository
       git clone https://github.com/your-username/ecommerce-backend.git
       cd ecommerce-backend
@@ -76,8 +77,10 @@ ecommerce-backend
 | API Base URL | [http://localhost:8080](http://localhost:8080)                                             |
 | Swagger UI   | [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html) |
 | H2 Console   | [http://localhost:8080/h2-console](http://localhost:8080/h2-console)                       |
+```
 
 ## **📌 API Endpoints**
+```
 
 | Method | Endpoint             | Description       |
 | ------ | -------------------- | ----------------- |
@@ -86,7 +89,7 @@ ecommerce-backend
 | GET    | `/api/products/{id}` | Get product by ID |
 | PUT    | `/api/products/{id}` | Update product    |
 | DELETE | `/api/products/{id}` | Delete product    |
-
+```
 ---
 ## **📤 Sample JSON (POST /api/products)**
 
