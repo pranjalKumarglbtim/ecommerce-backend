@@ -8,7 +8,7 @@ It provides APIs for managing products with full CRUD operations, built using Sp
 ```
 
 ---
-**## 🚀 Features**
+## **🚀 Features**
 
 * 📦 Product Management (CRUD)
 * 🔍 Get product by ID
