@@ -7,19 +7,20 @@ A Spring Boot-based RESTful backend system for an E-Commerce application.
 It provides APIs for managing products with full CRUD operations, built using Spring Boot, Spring Data JPA, and H2/PostgreSQL database support.
 ```
 
-```
-🚀 ### **Features**
+---
+## 🚀 Features
 
-📦 Product Management (CRUD)
-🔍 Get product by ID
-📃 Get all products
-✏️ Update product details
-❌ Delete product
-🧪 In-memory H2 database support (easy testing)
-🐘 PostgreSQL support (production ready)
-📄 Swagger UI API documentation
-⚡ Layered architecture (Controller → Service → Repository)
-```
+**📦 Product Management (CRUD)**
+**🔍 Get product by ID**
+**📃 Get all products**
+**✏️ Update product details**
+**❌ Delete product**
+**🧪 In-memory H2 database support (easy testing)**
+**🐘 PostgreSQL support (production ready)**
+**📄 Swagger UI API documentation**
+**⚡ Layered architecture (Controller → Service → Repository)**
+---
+
 ---
 
 ## 🛠️ Tech Stack
