@@ -1,7 +1,7 @@
 # ecommerce-backend
 ```
 
-🛒 ### **Ecommerce Backend API**
+## **🛒 Ecommerce Backend API**
 
 A Spring Boot-based RESTful backend system for an E-Commerce application.
 It provides APIs for managing products with full CRUD operations, built using Spring Boot, Spring Data JPA, and H2/PostgreSQL database support.
