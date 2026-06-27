@@ -1,8 +1,9 @@
 # ecommerce-backend
+```
 
 🛒 Ecommerce Backend API
 
-```A Spring Boot-based RESTful backend system for an E-Commerce application.
+A Spring Boot-based RESTful backend system for an E-Commerce application.
 It provides APIs for managing products with full CRUD operations, built using Spring Boot, Spring Data JPA, and H2/PostgreSQL database support.
 ```
 
@@ -17,7 +18,8 @@ It provides APIs for managing products with full CRUD operations, built using Sp
 🧪 In-memory H2 database support (easy testing)
 🐘 PostgreSQL support (production ready)
 📄 Swagger UI API documentation
-⚡ Layered architecture (Controller → Service → Repository) ```
+⚡ Layered architecture (Controller → Service → Repository)
+```
 
 ```
 🏗️ Tech Stack
@@ -51,6 +53,7 @@ ecommerce-backend
  ┣ pom.xml
  ┗ README.md
  ```
+```
 
  ⚙️ Setup Instructions
  
@@ -83,16 +86,18 @@ ecommerce-backend
 | GET    | `/api/products/{id}` | Get product by ID |
 | PUT    | `/api/products/{id}` | Update product    |
 | DELETE | `/api/products/{id}` | Delete product    |
-
-📤 Sample JSON (POST /api/products)
 ```
+```
+📤 Sample JSON (POST /api/products)
+
 
 {
   "name": "iPhone 15",
   "description": "Latest Apple smartphone",
   "price": 79999,
   "quantity": 10
-} ```
+}
+ ```
 
 🧪 Testing with Postman
 
@@ -126,10 +131,11 @@ spring.datasource.password=yourpassword
 📦 Category Management
 🧾 Role-based Access Control
 ```
-
+```
 
 👨‍💻 Author
-```
+
 Pranjal Kumar
-Java Backend Developer (Learning Phase 🚀) ```
+Java Backend Developer (Learning Phase 🚀)
+```
 ..
