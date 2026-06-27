@@ -20,8 +20,8 @@ It provides APIs for managing products with full CRUD operations, built using Sp
 📄 Swagger UI API documentation
 ⚡ Layered architecture (Controller → Service → Repository)
 ```
+---
 
-```
 ## 🛠️ Tech Stack
 * **Language:** Java 17+
 * **Framework:** Spring Boot 3+
@@ -30,7 +30,7 @@ It provides APIs for managing products with full CRUD operations, built using Sp
 * **Build Tool:** Maven
 * **API Docs:** Swagger (springdoc-openapi)
 * **Testing:** Postman (API testing)
-```
+---  
 
 ```
 📁 Project Structure
