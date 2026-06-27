@@ -142,6 +142,6 @@ spring.datasource.password=yourpassword
 ## **👨‍💻 Author**
 ```
 Pranjal Kumar
-Java Backend Developer (Learning Phase 🚀)
+Java Backend Developer
 ```
 ..
