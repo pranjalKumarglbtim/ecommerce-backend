@@ -98,7 +98,7 @@ ecommerce-backend
   "quantity": 10
 }
  ```
-
+```
 🧪 Testing with Postman
 
 Open Postman
@@ -121,6 +121,8 @@ PostgreSQL (Optional)
 spring.datasource.url=jdbc:postgresql://localhost:5432/ecommerce
 spring.datasource.username=postgres
 spring.datasource.password=yourpassword
+```
+
 ```
 📈 Future Improvements
 
