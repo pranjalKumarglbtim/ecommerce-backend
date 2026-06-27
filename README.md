@@ -6,9 +6,9 @@
 It provides APIs for managing products with full CRUD operations, built using Spring Boot, Spring Data JPA, and H2/PostgreSQL database support.
 ```
 
-
-🚀 Features
 ```
+🚀 Features
+
 📦 Product Management (CRUD)
 🔍 Get product by ID
 📃 Get all products
@@ -19,9 +19,9 @@ It provides APIs for managing products with full CRUD operations, built using Sp
 📄 Swagger UI API documentation
 ⚡ Layered architecture (Controller → Service → Repository) ```
 
-
-🏗️ Tech Stack
 ```
+🏗️ Tech Stack
+
 
 ☕ Java 17+
 🌱 Spring Boot 3+
@@ -31,9 +31,9 @@ It provides APIs for managing products with full CRUD operations, built using Sp
 📘 Swagger (springdoc-openapi)
 🧪 Postman (API testing)
 ```
-
-📁 Project Structure
 ```
+📁 Project Structure
+
 
 ecommerce-backend
  ┣ src
