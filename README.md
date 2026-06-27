@@ -90,20 +90,21 @@ ecommerce-backend
 | PUT    | `/api/products/{id}` | Update product    |
 | DELETE | `/api/products/{id}` | Delete product    |
 ```
----
+
 ## **📤 Sample JSON (POST /api/products)**
 
-
+```
 {
   "name": "iPhone 15",
   "description": "Latest Apple smartphone",
   "price": 79999,
   "quantity": 10
 }
- ---
 ```
-🧪 Testing with Postman
 
+
+## **🧪 Testing with Postman**
+```
 Open Postman
 Select method (GET/POST/PUT/DELETE)
 Enter URL:
@@ -125,21 +126,21 @@ spring.datasource.url=jdbc:postgresql://localhost:5432/ecommerce
 spring.datasource.username=postgres
 spring.datasource.password=yourpassword
 ```
+---
 
+## **📈 Future Improvements**
+
+* 🔐 JWT Authentication
+* 🛍️ Cart & Order System
+* 👤 User Management
+* 💳 Payment Integration
+* 📦 Category Management
+* 🧾 Role-based Access Control
+---  
+
+
+## **👨‍💻 Author**
 ```
-📈 Future Improvements
-
-🔐 JWT Authentication
-🛍️ Cart & Order System
-👤 User Management
-💳 Payment Integration
-📦 Category Management
-🧾 Role-based Access Control
-```
-```
-
-👨‍💻 Author
-
 Pranjal Kumar
 Java Backend Developer (Learning Phase 🚀)
 ```
