@@ -3,7 +3,8 @@
 🛒 Ecommerce Backend API
 
 ```A Spring Boot-based RESTful backend system for an E-Commerce application.
-It provides APIs for managing products with full CRUD operations, built using Spring Boot, Spring Data JPA, and H2/PostgreSQL database support.```
+It provides APIs for managing products with full CRUD operations, built using Spring Boot, Spring Data JPA, and H2/PostgreSQL database support.
+```
 
 
 🚀 Features
@@ -115,9 +116,9 @@ PostgreSQL (Optional)
 spring.datasource.url=jdbc:postgresql://localhost:5432/ecommerce
 spring.datasource.username=postgres
 spring.datasource.password=yourpassword
-
-📈 Future Improvements
 ```
+📈 Future Improvements
+
 🔐 JWT Authentication
 🛍️ Cart & Order System
 👤 User Management
