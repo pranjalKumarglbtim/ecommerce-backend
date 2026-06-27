@@ -33,7 +33,7 @@ It provides APIs for managing products with full CRUD operations, built using Sp
 * **Testing:** Postman (API testing)
 ---  
 
----
+
 ## **📁 Project Structure**
 ```
 
@@ -53,7 +53,7 @@ ecommerce-backend
  ┣ pom.xml
  ┗ README.md
 ```
- ---
+
 
 ---
  ## **⚙️ Setup Instructions**
