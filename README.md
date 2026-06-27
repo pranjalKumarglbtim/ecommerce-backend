@@ -1,11 +1,11 @@
 # ecommerce-backend
-```
+
 
 ## **🛒 Ecommerce Backend API**
 
 A Spring Boot-based RESTful backend system for an E-Commerce application.
 It provides APIs for managing products with full CRUD operations, built using Spring Boot, Spring Data JPA, and H2/PostgreSQL database support.
-```
+
 
 ---
 ## **🚀 Features**
@@ -33,8 +33,8 @@ It provides APIs for managing products with full CRUD operations, built using Sp
 * **Testing:** Postman (API testing)
 ---  
 
-```
-📁 Project Structure
+---
+## **📁 Project Structure**
 
 
 ecommerce-backend
@@ -52,10 +52,10 @@ ecommerce-backend
  ┃ ┗ test
  ┣ pom.xml
  ┗ README.md
- ```
-```
+ ---
 
- ⚙️ Setup Instructions
+---
+ ## **⚙️ Setup Instructions**
  
    1️⃣ Clone the repository
       git clone https://github.com/your-username/ecommerce-backend.git
@@ -77,7 +77,7 @@ ecommerce-backend
 | Swagger UI   | [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html) |
 | H2 Console   | [http://localhost:8080/h2-console](http://localhost:8080/h2-console)                       |
 
-📌 API Endpoints
+## **📌 API Endpoints**
 
 | Method | Endpoint             | Description       |
 | ------ | -------------------- | ----------------- |
@@ -86,9 +86,9 @@ ecommerce-backend
 | GET    | `/api/products/{id}` | Get product by ID |
 | PUT    | `/api/products/{id}` | Update product    |
 | DELETE | `/api/products/{id}` | Delete product    |
-```
-```
-📤 Sample JSON (POST /api/products)
+
+---
+## **📤 Sample JSON (POST /api/products)**
 
 
 {
@@ -97,7 +97,7 @@ ecommerce-backend
   "price": 79999,
   "quantity": 10
 }
- ```
+ ---
 ```
 🧪 Testing with Postman
 
